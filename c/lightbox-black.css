@@ -1,0 +1,11 @@
+@import "lightbox.css";
+
+#outerImageContainer{ background-color: #000; }
+
+#loading{ background: url(images/loading.gif) center center no-repeat; }
+
+#prevLink:hover, #prevLink:visited:hover { background-image: url(images/prev_b.gif); }
+#nextLink:hover, #nextLink:visited:hover { background-image: url(images/next_b.gif); }
+#imageData #bottomNavClose{ background-image: url(images/closelabel_b.gif); }	
+
+#imageDataContainer{ color: #a6a6a6; }

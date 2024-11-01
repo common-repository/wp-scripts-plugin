@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp-Scripts 0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-18 15:14+0900\n"
+"PO-Revision-Date: 2009-04-18 15:21+0900\n"
+"Last-Translator: 082net <082net@gmail.com>\n"
+"Language-Team: 082net <082net@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: s\n"
+"X-Poedit-Language: Korean\n"
+"X-Poedit-Country: KOREA, REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+
+#: ../../wp-scripts/wp-scripts.php:95
+#: ../../wp-scripts/wp-scripts.php:271
+msgid "Wp-Scripts"
+msgstr "Wp-Scripts"
+
+#: ../../wp-scripts/wp-scripts.php:263
+msgid "Settings saved."
+msgstr "변경사항이 저장되었습니다."
+
+#: ../../wp-scripts/wp-scripts.php:276
+msgid "General Scripts"
+msgstr "일반 스크립트"
+
+#: ../../wp-scripts/wp-scripts.php:280
+msgid "Independeces:"
+msgstr "독립형:"
+
+#: ../../wp-scripts/wp-scripts.php:294
+msgid "Groups:"
+msgstr "그룹:"
+
+#: ../../wp-scripts/wp-scripts.php:308
+msgid "Overlay Image Tool:"
+msgstr "이미지 오버레이 도구:"
+
+#: ../../wp-scripts/wp-scripts.php:310
+msgid "None"
+msgstr "없슴"
+
+#: ../../wp-scripts/wp-scripts.php:324
+msgid "Dependent Scripts"
+msgstr "의존형 스크립트"
+
+#: ../../wp-scripts/wp-scripts.php:328
+msgid "Dependencies:"
+msgstr "의존형:"
+
+#: ../../wp-scripts/wp-scripts.php:329
+msgid "Others"
+msgstr "다른것들"
+
+#: ../../wp-scripts/wp-scripts.php:344
+msgid "User custom"
+msgstr "사용자 추가"
+
+#: ../../wp-scripts/wp-scripts.php:347
+msgid "Custom:"
+msgstr "사용자정의:"
+
+#: ../../wp-scripts/wp-scripts.php:361
+msgid "Save Changes"
+msgstr "변경사항 저장"
+
+#: ../../wp-scripts/wp-scripts.php:403
+msgid "You have attempted to queue too many files."
+msgstr "너무 많은 파일을 업로드했습니다."
+
+#: ../../wp-scripts/wp-scripts.php:404
+#, php-format
+msgid "This file is too big. Your php.ini upload_max_filesize is %s."
+msgstr "파일이 너무 큽니다. php.ini의 upload_max_filesize는 %s입니다."
+
+#: ../../wp-scripts/wp-scripts.php:405
+msgid "This file is empty. Please try another."
+msgstr "파일이 비어있습니다. 다른 것으로 올려주십시오."
+
+#: ../../wp-scripts/wp-scripts.php:406
+msgid "This file type is not allowed. Please try another."
+msgstr "이 파일 형식은 허용하지 않습니다. 다른 것으로 올려주십시오."
+
+#: ../../wp-scripts/wp-scripts.php:407
+msgid "An error occurred in the upload. Please try again later."
+msgstr "업로드중에 오류가 발생했습니다. 나중에 다시 시도하십시오."
+
+#: ../../wp-scripts/wp-scripts.php:408
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "설정에 오류가 있습니다. 서버 관리자와 상의하십시요."
+
+#: ../../wp-scripts/wp-scripts.php:409
+msgid "You may only upload 1 file."
+msgstr "하나의 파일만 업로드할 수 있습니다."
+
+#: ../../wp-scripts/wp-scripts.php:410
+msgid "HTTP error."
+msgstr "HTTP 오류."
+
+#: ../../wp-scripts/wp-scripts.php:411
+msgid "Upload failed."
+msgstr "업로드 실패."
+
+#: ../../wp-scripts/wp-scripts.php:412
+msgid "IO error."
+msgstr "IO(Input Output) 오류."
+
+#: ../../wp-scripts/wp-scripts.php:413
+msgid "Security error."
+msgstr "보안 오류."
+
+#: ../../wp-scripts/wp-scripts.php:414
+msgid "File cancelled."
+msgstr "파일이 취소됨."
+
+#: ../../wp-scripts/wp-scripts.php:415
+msgid "Upload stopped."
+msgstr "업로드가 중단됨."
+
+#: ../../wp-scripts/wp-scripts.php:416
+msgid "Dismiss"
+msgstr "무시"
+
+#: ../../wp-scripts/wp-scripts.php:417
+msgid "Crunching&hellip;"
+msgstr "처리중 &hellip;"
+
+#: ../../wp-scripts/wp-scripts.php:418
+msgid "Deleted"
+msgstr "삭제됨"
+
+#: ../../wp-scripts/wp-scripts.php:570
+msgid "Register"
+msgstr "등록"
+
+#: ../../wp-scripts/wp-scripts.php:581
+msgid "Log in"
+msgstr "로그인"
+
+#: ../../wp-scripts/wp-scripts.php:583
+msgid "Log out"
+msgstr "로그아웃"
+
+#~ msgid "WP-Scripts is not active"
+#~ msgstr "WP-Scripts가 작동하지 않습니다"
+#~ msgid ""
+#~ "WP-Scripts requires <a href='http://082net.com/tag/wp-compatibility-"
+#~ "pack/'>WP-Compatibility-Pack</a> with lesser than WP 2.1"
+#~ msgstr ""
+#~ "WP 2.1 이전 버전에서 WP-Scripts를 사용하려면 <a href='http://082net.com/"
+#~ "tag/wp-compatibility-pack/'>WP-Compatibility-Pack</a>을 설치하셔야만 합니"
+#~ "다."
+

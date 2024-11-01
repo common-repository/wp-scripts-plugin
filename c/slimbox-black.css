@@ -1,0 +1,40 @@
+/* SLIMBOX */
+@import "slimbox.css";
+
+#lbOverlay {
+	background-color: #333;
+}
+
+#lbCenter, #lbBottom {
+	background-color: #333;
+}
+
+.lbLoading {
+	background-color: #333;
+}
+
+#lbImage {
+	border-color: #333;
+}
+
+#lbPrevLink:hover {
+	background-image: url(images/prev_b.gif);
+}
+
+#lbNextLink:hover {
+	background-image: url(images/next_b.gif);
+}
+
+#lbBottom {
+	color: #666;
+	border-color: #333;
+}
+
+#lbCloseLink {
+	background-image: url(images/closelabel_b.gif);
+}
+
+#lbCaption, #lbNumber {
+	color: #a6a6a6;
+}
+
